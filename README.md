@@ -1,1 +1,22 @@
-# CosmosDB
+Links Related to cosmosdb api's
+https://docs.microsoft.com/en-us/python/api/overview/azure/cosmosdb?view=azure-python
+https://towardsdatascience.com/building-simple-data-pipelines-in-azure-using-cosmos-db-databricks-and-blob-storage-fffac0d49505
+https://dev.to/willvelida/building-simple-data-pipelines-in-azure-using-cosmos-db-databricks-and-blob-storage-3c0b
+https://www.javatpoint.com/azure-cosmos-database
+https://pypi.org/project/azure-cosmos/
+https://pypi.org/project/pymongo/#description
+https://pymongo.readthedocs.io/en/stable/tutorial.html
+https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-python
+https://docs.microsoft.com/en-us/azure/cosmos-db/create-mongodb-flask
+https://www.youtube.com/watch?v=VtQAX4WMV_s&list=PLPIVZsyfpXt-X3V6idxDN6X4ekLKmzof6&index=1
+https://www.geeksforgeeks.org/python-mongodb-query/
+https://www.geeksforgeeks.org/python-mongodb-update_many-query/
+https://docs.mongodb.com/manual/changeStreams/
+https://www.youtube.com/watch?v=bRGHkhBKcas&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I&index=6
+https://docs.microsoft.com/en-us/azure/dms/tutorial-mongodb-cosmos-db?toc=/azure/cosmos-db/toc.json?toc=/azure/cosmos-db/toc.json
+https://docs.microsoft.com/en-us/azure/cosmos-db/import-data
+https://www.youtube.com/watch?v=a_1k3CqJBFo&feature=youtu.be
+https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-use-stored-procedures-triggers-udfs
+https://www.geeksforgeeks.org/how-to-import-json-file-in-mongodb-using-python/
+https://kb.objectrocket.com/mongo-db/export-mongodb-documents-as-csv-html-and-json-files-in-python-using-pandas-347
+https://docs.huihoo.com/mongodb/3.4/reference/operator/aggregation/eq/index.html
